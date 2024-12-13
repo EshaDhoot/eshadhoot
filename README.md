@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Esha</h1>
 <h3 align="center">A passionate backend developer with a knack for crafting efficient and scalable solutions. I thrive on tackling complex problems and turning them into elegant, maintainable code. The tech world is constantly evolving, and I am committed to continuous learning and self-improvement to stay ahead of the curve.</h3>
 
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=eshadhoot&label=Profile%20views&color=0e75b6&style=flat" alt="eshadhoot" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=eshadhoot&label=Profile%20views&color=0e75b6&style=flat" alt="eshadhoot" /> </p>-->
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eshadhoot" alt="eshadhoot" /></a> </p> -->
 
